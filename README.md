@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HITlittlefox
-- 🌱 I’m currently learning NLP.
+- 🌱 I’m currently learning many interesting things.
 
 <!---
 HITlittlefox/HITlittlefox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
