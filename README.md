@@ -1,7 +1,5 @@
 - Ready to go to work in ShenZhen
 - Like to play Overwatch
-
-
 <!---
 
 - Hi, I’m @HITlittlefox，正在秋招求职，联系方式：Email：963614756@qq.com
@@ -15,9 +13,8 @@
   
 HITlittlefox/HITlittlefox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
 
 [![GitHub Info](https://stats.justsong.cn/api/github?username=HITlittlefox)](https://github.com/HITlittlefox)![LeetCode Info](https://stats.justsong.cn/api/leetcode?username=severus-8&cn=true)![Nowcoder Info](https://stats.justsong.cn/api/nowcoder?id=361864667)
 
 
-
+--->
